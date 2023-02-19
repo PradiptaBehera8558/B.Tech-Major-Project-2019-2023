@@ -1,0 +1,46 @@
+datasource: 'C:\Users\DELL\Desktop\B.Tech Major Project\BTechMajorProject\Final Data Set'
+crypto_ls: 
+  - bitcoin
+      path: ''
+  - ethereum
+      path: 'Ethereum Historical Data.csv'
+  - tether
+      path: 'Tether.xlsx'
+  - icp
+      path: 'ICP.xlsx'
+  - ApeCoin
+      path: 'ApeCoin APE.xlsx'
+  - Avalanche
+      path: 'Avalanche.xlsx'
+  - Binance
+      path: 'Binance.xlsx'
+  - Cardano
+      path: 'Cardano.xlsx'
+  - Chainlink
+      path: 'Chainlink.xlsx'
+  - Dai
+      path: 'Dai Historical Price.csv'
+  - Doge
+      path: 'Dogecoin DOGE.xlsx'
+  - Fantom
+      path: 'Fantom FTM.xlsx'
+  - Lido
+      path: 'Lido DAO DLO.xlsx'
+  - Matic
+      path: 'Matic Polygon.xlsx'
+  - Polkadot
+      path: 'Polkadot DOT.xlsx'
+  - SOLANA
+      path: 'SOLANA SOL.xlsx'
+  - Graph
+      path: 'The Graph.xlsx'
+  - Uniswap
+      path: 'Uniswap.xlsx'
+  - USDC
+      path: 'USD Coin USDC.xlsx'
+  - WBTC
+      path: 'Wrapped Bitcoin.xlsx'
+  - Ripple
+      path: 'XRP Ripple.xlsx'
+
+
